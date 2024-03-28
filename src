@@ -1,0 +1,16 @@
+my_project/
+  src/
+    assets/
+      fonts/
+      icons/
+      images/
+      svg-sprite/
+    html/
+      blocks/
+    scripts/
+      dev/
+      vendor/
+    styles/
+      blocks/
+      global/
+      vendor/
